@@ -5,6 +5,6 @@ spring:
     host:
     #type: org.apache.tomcat.jdbc.pool.DataSource
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://192.168.2.203:3306/business-work-order
+    url: jdbc:mysql://192.168.2.203:3306/business_work_order
     username: root
     password: root
